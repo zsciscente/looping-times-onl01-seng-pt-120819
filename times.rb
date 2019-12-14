@@ -1,5 +1,7 @@
 def using_times
-	#your code here
+  using_times = "Wingardium Leviosa"
+	7.times do
+	  using_times
 end
 
 
